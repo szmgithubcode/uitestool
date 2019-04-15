@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 setup(
-    name='autotest',
+    name='uitestool',
     version='1.0.0',
     description='a automated test tools',
     author='szmgithubcode',#作者
