@@ -2,7 +2,7 @@
 import logging
 import time
 import os
-from com.switch import Switch
+from autotest.switch import Switch
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
